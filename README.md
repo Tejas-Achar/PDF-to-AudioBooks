@@ -1,4 +1,7 @@
 # PDF-to-AudioBooks
+
+Python version 3+
+
 Convert all your PDF files to audio books. Use this as an API or a GUI application or a simple script.
 
 API - Pdf_2_Voice_API.py
